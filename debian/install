@@ -1,0 +1,2 @@
+tmux /usr/bin
+SOURCES/bash_completion_tmux.sh /etc/bash-completion/completions/tmux
